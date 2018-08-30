@@ -90,7 +90,7 @@ class my_sequence extends uvm_sequence#(my_seq_item);
 
 endclass: my_sequence
 
-//monitor
+//monitor 
 class my_monitor extends uvm_monitor;
 	
 	//virtual interface
